@@ -1,0 +1,36 @@
+F:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\bin\Debug\Lab Barres Codes.exe.config
+F:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.csprojResolveAssemblyReference.cache
+F:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab_Barres_Codes.frmBarresCodes.resources
+F:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab_Barres_Codes.Properties.Resources.resources
+F:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.csproj.GenerateResource.Cache
+F:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\bin\Debug\Lab Barres Codes.exe
+F:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\bin\Debug\Lab Barres Codes.pdb
+F:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.exe
+F:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.pdb
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\bin\Debug\Lab Barres Codes.exe.config
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.exe
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.pdb
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\bin\Debug\Lab Barres Codes.exe
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\bin\Debug\Lab Barres Codes.pdb
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.csprojResolveAssemblyReference.cache
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab_Barres_Codes.frmBarresCodes.resources
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab_Barres_Codes.Properties.Resources.resources
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.csproj.GenerateResource.Cache
+D:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\bin\Debug\Lab Barres Codes.exe.config
+D:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.exe
+D:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.pdb
+D:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\bin\Debug\Lab Barres Codes.exe
+D:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\bin\Debug\Lab Barres Codes.pdb
+D:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.csprojResolveAssemblyReference.cache
+D:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab_Barres_Codes.frmBarresCodes.resources
+D:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab_Barres_Codes.Properties.Resources.resources
+D:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes\Lab Barres Codes\obj\Debug\Lab Barres Codes.csproj.GenerateResource.Cache
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes - SG-ST-DB\Lab Barres Codes\bin\Debug\Lab Barres Codes.exe.config
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes - SG-ST-DB\Lab Barres Codes\obj\Debug\Lab Barres Codes.exe
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes - SG-ST-DB\Lab Barres Codes\obj\Debug\Lab Barres Codes.pdb
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes - SG-ST-DB\Lab Barres Codes\bin\Debug\Lab Barres Codes.exe
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes - SG-ST-DB\Lab Barres Codes\bin\Debug\Lab Barres Codes.pdb
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes - SG-ST-DB\Lab Barres Codes\obj\Debug\Lab_Barres_Codes.frmBarresCodes.resources
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes - SG-ST-DB\Lab Barres Codes\obj\Debug\Lab_Barres_Codes.Properties.Resources.resources
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes - SG-ST-DB\Lab Barres Codes\obj\Debug\Lab Barres Codes.csproj.GenerateResource.Cache
+E:\Cegep Session 3\Communication\Lab Barres Codes\Lab Barres Codes - SG-ST-DB\Lab Barres Codes\obj\Debug\Lab Barres Codes.csprojResolveAssemblyReference.cache
